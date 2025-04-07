@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roshan-Muhmd
 - 👀 I’m interested in Web developmant
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on React.js
+- 🌱 I’m currently working as Full stack developer
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me roshanmuhmdnavas@gmail.com
 
 
